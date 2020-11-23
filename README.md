@@ -22,4 +22,10 @@
 ## TURMA 07
 
 [° PROCAUSAS](https://github.com/procausas)
+
 [º ZUZ](https://github.com/Pamy05/ZUZ)
+[º ZUZ Deploy:](https://impacta-mais.herokuapp.com/)
+
+[º Impacta+ Back-end:](https://github.com/Jessica-Lorena/ImpactaMais)
+[º Impacta+ Front-end:](https://github.com/Jessica-Lorena/ImpactaMaisFront)
+[º Impacta+ Deploy:](https://impacta-mais.herokuapp.com/)
