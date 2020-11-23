@@ -4,12 +4,12 @@
 ##### PROJETOS DE CONCLUSÃO DO CURSO DE DESENVOLVEDOR FULL STACK JAVA JUNIOR
 ### BOOTCAMP GENERATION BRASIL
 
-![gif programação](https://github.com/conteudoGeneration/Projetos/blob/main/source.gif)
-![gif programação](https://github.com/conteudoGeneration/Projetos/blob/main/Blog-Gif.gif)
+
 
 #### Venha fazer parte você também: 
 [Genetarion Brasil](https://brazil.generation.org/)
 
+![gif programação](https://github.com/conteudoGeneration/Projetos/blob/main/source.gif)
 
 # TURMA 01
 
