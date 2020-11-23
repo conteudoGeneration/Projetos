@@ -29,3 +29,17 @@
 [º Impacta+ Back-end:](https://github.com/Jessica-Lorena/ImpactaMais)
 [º Impacta+ Front-end:](https://github.com/Jessica-Lorena/ImpactaMaisFront)
 [º Impacta+ Deploy:](https://impacta-mais.herokuapp.com/)
+
+## TURMA 08
+
+## TURMA 09
+
+## TURMA 10
+
+## TURMA 11
+
+## TURMA 12
+
+## TURMA 13
+
+## TURMA 14
