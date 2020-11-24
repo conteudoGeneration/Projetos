@@ -26,9 +26,16 @@
 [º ZUZ](https://github.com/Pamy05/ZUZ)
 [º ZUZ Deploy:](https://impacta-mais.herokuapp.com/)
 
+[º HOLDING HANDS Back-end:](https://github.com/sofifernandes/HoldingHands-PI)
+[º HOLDING HANDS Front-end:](https://github.com/sofifernandes/HoldingHands-Front)
+
 [º Impacta+ Back-end:](https://github.com/Jessica-Lorena/ImpactaMais)
 [º Impacta+ Front-end:](https://github.com/Jessica-Lorena/ImpactaMaisFront)
 [º Impacta+ Deploy:](https://impacta-mais.herokuapp.com/)
+
+[º DOA Back-end](https://github.com/PaulaJusti01/doacommerce-backend)
+[º DOA Front-end](https://github.com/PaulaJusti01/doacommerce-frontend)
+[º DOA Deploy:](https://doa-commerce.herokuapp.com)
 
 ## TURMA 08
 
